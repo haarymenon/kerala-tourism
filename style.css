@@ -1,0 +1,19 @@
+body {
+    /* Set the background image */
+    background-image: url("gaurav-kumar-33Z4FsBTiAY-unsplash.jpg");
+
+    /* Set the background size to cover, so the image covers the entire body */
+    background-size: cover;
+
+    /* Set the background repeat to no-repeat to prevent the image from repeating */
+    background-repeat: no-repeat;
+
+    /* Set the background position to center to align the image */
+    background-position: center;
+
+    /* Add a background color as a fallback in case the image is not available */
+    background-color: #f3f3f3;
+
+    /* Add some padding to the body to create spacing around the content */
+    padding: 20px;
+  }
